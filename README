@@ -34,4 +34,11 @@ Example
 [user_required will store the requested location before redirecting.]
 [Call redirect_back_or_default after login to enable this behaviour.]
 
+
+Testing
+=======
+
+Adds login_as and logout methods to tests.
+
+
 Copyright (c) 2009 [Brent Greeff], released under the MIT license
