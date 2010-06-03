@@ -5,6 +5,7 @@ module AuthLogic
     end
     
     def login_user(user)
+      raise 'Cannot login, user is not a User' unless user.is_a? User
       UserSession.create(user)
     end
     
