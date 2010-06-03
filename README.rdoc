@@ -1,4 +1,4 @@
-= Auth Logic User Session Helper
+= AuthLogic UserSession Helper
 
 Bunch of convenience methods for use with AuthLogic and Rails.
 
