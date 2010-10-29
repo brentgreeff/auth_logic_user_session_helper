@@ -1,4 +1,4 @@
-require 'instance_methods'
+require 'auth_logic_user_session_helper/instance_methods'
 
 module AuthLogic
   module UserSessionHelper
