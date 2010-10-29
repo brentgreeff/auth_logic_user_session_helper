@@ -17,8 +17,8 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/auth_logic_user_session_helper.rb",
-    "lib/acts_as_human/auth_logic_test_helper.rb",
-    "lib/acts_as_human/instance_methods.rb",
+    "lib/auth_logic_user_session_helper/auth_logic_test_helper.rb",
+    "lib/auth_logic_user_session_helper/instance_methods.rb",
     "test/auth_logic_user_session_helper_test.rb",
     "test/test_helper.rb"
   ]
