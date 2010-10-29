@@ -1,3 +1,5 @@
+require 'instance_methods'
+
 module AuthLogic
   module UserSessionHelper
     
