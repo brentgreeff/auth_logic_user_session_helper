@@ -38,7 +38,7 @@ module AuthLogic
       # Redirect back
       
       def store_location
-        session[:return_to] = request.request_uri
+        session[:return_to] = request.fullpath
       end
       
       def redirect_back_or_default(default)
