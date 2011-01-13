@@ -4,7 +4,13 @@ Bunch of convenience methods for use with AuthLogic and Rails.
 
 Only works if you are using a standard user, and user_session.
 
-Will be able to specify the model(s) names in the future.
+Will be able to specify the model(s) names in the future
+
+== Install
+
+      gem install auth_logic_user_session_helper
+      
+      (or use bundler)
 
 == Example
 
