@@ -1,7 +1,5 @@
-> [\!CAUTION]
-> This repository is deprecated and no longer maintained.
-
-# AuthLogic UserSession Helper
+> [!CAUTION]
+> This repository is deprecated and no longer maintained.# AuthLogic UserSession Helper
 
 Bunch of convenience methods for use with AuthLogic and Rails.
 
