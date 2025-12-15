@@ -1,7 +1,7 @@
-> [!CAUTION]
+> [\!CAUTION]
 > This repository is deprecated and no longer maintained.
 
-= AuthLogic UserSession Helper
+# AuthLogic UserSession Helper
 
 Bunch of convenience methods for use with AuthLogic and Rails.
 
@@ -38,8 +38,8 @@ Will be able to specify the model(s) names in the future
         store_location
         redirect_back_or_default
 
-### user_required will store the requested location before redirecting.
-### Call redirect_back_or_default after login to enable this behaviour.
+### user_required will store the requested location before redirecting. ###
+Call redirect_back_or_default after login to enable this behaviour.
 
 ## Testing
 
